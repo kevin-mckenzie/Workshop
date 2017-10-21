@@ -3,9 +3,9 @@ Carlos Villapudua
 Karan Shankar
 Kevin
 Bibartan
-<<<<<<< HEAD
+
 aldskfaldskfja;dlf
-=======
+
 
 Eggs and Bacon
->>>>>>> c2d8de46bd612be7df993d899c372446286ba6d6
+
